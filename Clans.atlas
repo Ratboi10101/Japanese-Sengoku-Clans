@@ -1,6 +1,6 @@
 
-game.png
-size: 512, 128
+Clans.png
+size: 500, 100
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
