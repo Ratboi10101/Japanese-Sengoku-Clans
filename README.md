@@ -1,5 +1,3 @@
-# Unciv-mod-example
+# Japanese Sengoku Clans Mod
 
-An example mod for Unciv, that adds one new Civilization.
-
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+The mod that adds Sengoku clans to the game. Why? Why not?
