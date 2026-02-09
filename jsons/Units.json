@@ -25,20 +25,5 @@
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
-	},
-	{
-		"name": "Samurai",
-		"unitType": "Sword",
-		"replaces": "Longswordsman",
-		"uniqueTo": "Oda Clan",
-		"movement": 2,
-		"strength": 20,
-		"cost": 120,
-		"requiredTech": "Steel",
-		"upgradesTo": "Musketman",
-		"obsoleteTech": "Gunpowder",
-		"requiredResource": "Iron",
-		"promotions": ["Shock I", "Great Generals II"],
-		"attackSound": "metalhit"
 	}
 ]
