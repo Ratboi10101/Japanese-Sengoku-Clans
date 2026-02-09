@@ -7,33 +7,37 @@
 		"preferredVictoryType": "Domination",
 		"favoredReligion": "Christianity",
 		
-		"startIntroPart1": "Lord Oda Nobunaga, Great Daimyō and lord of the Oda clan, our powerful and loyal soldiers are ready for your order! You destroyed the most powerful Ashikaga Clan with ease, and dominated this land! Unlike other foolish daimyō, you imported futuristic technologies from foreign countries, and commissioned a lot to the modernization of Japan!",
+		"startIntroPart1": "Lord Oda Nobunaga, Great Daimyō and lord of the Oda clan, our powerful and loyal soldiers are ready for your order! You destroyed the powerful Ashikaga Clan with ease, overthrown the government, and dominated this land! Unlike other foolish daimyō, you imported futuristic technologies from foreign countries, and commissioned a lot to the modernization of Japan!",
 		"startIntroPart2": "O Great Tenka-bito, Will you rule this land of rising sun, and light up the world with sunlight?",
 		
 		"declaringWar": "I hereby inform you of our intention to wipe out your civilization from this world.",
 		"attacked": "Pitiful fool! Now we shall destroy you!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"defeated": "You were much wiser than I thought.",
+		"denounced": "Alright then. I trust you've thought it through."
+		"introduction": "We hope for a fair and just relationship with you, who are renowned for military bravery.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"neutralHello": "Hello.",
+		"hateHello": "Oh, it's you...",
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "I'm glad to know that you are wizer than others.",
+		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [255,255,0],
+		"innerColor": [0,0,0],
+		"uniqueName": "Tenka Fubu",
+		"uniques": ["Empire enters a [4]-turn Golden Age <upon conquering a city> <(modified by game speed)>","[+15]% Strength <when at war>"],
+		"cities": ["Nagoya",
+			"Kiyosu",
+			"Inuyama",
+			"Komaki",
+			"Gifu",
+			"Sakamoto",
+			"Azuchi",
+			"Otsu",
+			"Kyoto",
+			"Sakai",
+			"Osaka",
+			"Ise",]
+		"spyNames": ["Akaishi", "Oki", "Hattori", "Morozumi", "Momochi", "Kawashima", "Orin", "Sakanishi", "Kaede", "Mochizuki"]
 	}
 ]
