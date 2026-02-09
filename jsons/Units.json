@@ -14,6 +14,19 @@
 		"attackSound": "metalhit"
 	},
 	{
+		"name": "Ashigaru Musketman",
+		"unitType": "Gunpowder",
+		"replaces": "Musketman",
+		"uniqueTo": "Oda Clan",
+		"movement": 2,
+		"strength": 22,
+		"cost": 115,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+	},
+	{
 		"name": "Samurai",
 		"unitType": "Sword",
 		"replaces": "Longswordsman",
