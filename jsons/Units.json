@@ -17,7 +17,7 @@
 		"name": "Samurai",
 		"unitType": "Sword",
 		"replaces": "Longswordsman",
-		"uniqueTo": "Japan",
+		"uniqueTo": "Oda Clan",
 		"movement": 2,
 		"strength": 20,
 		"cost": 120,
