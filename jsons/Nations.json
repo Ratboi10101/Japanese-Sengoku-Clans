@@ -1,9 +1,9 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "Oda Clan",
+		"leaderName": "Oda Nobunaga",
+		"adjective": ["Oda"],
+		"startBias": [""],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
