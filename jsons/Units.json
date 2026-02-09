@@ -40,5 +40,5 @@
 		"requiredResource": "Iron",
 		"promotions": ["Shock I", "Great Generals II"],
 		"attackSound": "metalhit"
-	},
+	}
 ]
