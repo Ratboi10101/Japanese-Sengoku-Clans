@@ -2,9 +2,9 @@
 ## Nations
 All the following are from [Wikimedia Commons](https://commons.wikimedia.org) licenced under either Creative Commons or Public Domain
 
-*[Oda emblem](https://commons.wikimedia.org/wiki/File:Oda_emblem.svg) for Oda Clan (CC BY-SA 3.0)
+* [Oda emblem](https://commons.wikimedia.org/wiki/File:Oda_emblem.svg) for Oda Clan (CC BY-SA 3.0)
 
-*[Japanese Crest wari Hisi](https://commons.wikimedia.org/wiki/File:Japanese_Crest_wari_Hisi.svg) for Takeda Clan
+* [Japanese Crest wari Hisi](https://commons.wikimedia.org/wiki/File:Japanese_Crest_wari_Hisi.svg) for Takeda Clan
 
 ## Units
 All the following are from [the Noun Project](https://thenounproject.com) licenced under either Creative Commons or Public Domain
