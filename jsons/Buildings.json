@@ -11,4 +11,15 @@
 		"requiredTech": "Gunpowder",
 		"quote": "'In the eyes of the coward, the enemy always looks like a large army.' - Oda Nobunaga"
 	},
+	{
+		"name": "Tsutsujigasaki Castle",
+		"culture": 3,
+		"replaces": "Himeji Castle",
+		"uniqueTo": "Takeda Clan",
+		"isWonder": true,
+		"uniques": ["[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
+			"Gain a free [Castle] [in this city]"],
+		"requiredTech": "Steel",
+		"quote": "'In the eyes of the coward, the enemy always looks like a large army.' - Oda Nobunaga"
+	},
 ]
