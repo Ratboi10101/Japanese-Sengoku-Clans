@@ -12,7 +12,7 @@
 		
 		"declaringWar": "I hereby inform you of our intention to wipe out your civilization from this world.",
 		"attacked": "Pitiful fool! Now we shall destroy you!",
-		"defeated": "You were much wiser than I thought.",
+		"defeated": "Ignite the temple! I'm not letting them take my head.",
 		"denounced": "Alright then. I trust you've thought it through."
 		"introduction": "We hope for a fair and just relationship with you, who are renowned for military bravery.",
 		
@@ -88,19 +88,19 @@
 		"preferredVictoryType": "Domination",
 		"favoredReligion": "Shinto",
 		
-		"startIntroPart1": "O Toyotomi Hideyoshi, our great leader! You once was a Ashigaru soldier, yet you pushed your way to the top and became great daimyo! You united this land and ended the period of never-ending war, and drastically reformed the society and economy! You also measured scales of your peoples' lands and introduced the very accurate tax system! You have achieved so many things, we believe that it's sure to say that you are the greatest daimyo!",
+		"startIntroPart1": "O Toyotomi Hideyoshi, our great leader! You once was a Ashigaru soldier, yet you pushed your way to the top and became great daimyo! You united this land and ended the period of never-ending war, and drastically reformed the society and economy! You also measured scales of your peoples' lands and introduced the very accurate tax system! You have achieved so many things, we believe it's sure to say that you are the greatest daimyo!",
 		"startIntroPart2": "Lord, will you unite not only this land, but the entire glove?",
 		
-		"declaringWar": "I hereby inform you of our intention to wipe out your civilization from this world.",
+		"declaringWar": "Give up, you can't defeat me.",
 		"attacked": "Pitiful fool! Now we shall destroy you!",
-		"defeated": "You were much wiser than I thought.",
+		"defeated": "I have no regrets.",
 		"denounced": "Alright then. I trust you've thought it through."
 		"introduction": "We hope for a fair and just relationship with you, who are renowned for military bravery.",
 		
 		"neutralHello": "Hello.",
 		"hateHello": "Oh, it's you...",
 		
-		"afterPeace": "I'm glad to know that you are wizer than others.",
+		"afterPeace": "Come here, let's have some calming tea together, my friend. ",
 		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
 
 		"outerColor": [255,255,0],
