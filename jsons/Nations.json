@@ -121,4 +121,33 @@
 			"Miki"]
 		"spyNames": ["Anibashi", "Okamoto", "Sakuzou", "Sumizumi", "Hanuba", "Kishida", "Eidon", "Saki", "Kawai", "Kannazuki"]
 	},
+	{
+		"name": "Wicked Souls",
+		"leaderName": "Shuten-dōji",
+		"adjective": ["Wicked"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "Whatever you do, you soon will succumb to us.",
+		"attacked": "Foolishness, human.",
+		"defeated": "We will return. You can't escape.",
+		"denounced": "Alright then. I trust you've thought it through."
+		"introduction": "We hope for a fair and just relationship with you, who are renowned for military bravery.",
+		
+		"neutralHello": "Hello.",
+		"hateHello": "Oh, it's you...",
+		
+		"afterPeace": "Come here, let's have some calming tea together, my friend. ",
+		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
+
+		"outerColor": [255,255,0],
+		"innerColor": [0,0,0],
+		"uniqueName": "Katana Gari",
+		"uniques": ["[-99]% Unhappiness from [Population] [in all cities]","\"Borrows\" city names from other civilizations in the game"],
+		"cities": ["Suzugamori execution ground"]
+		"spyNames": ["Anibashi", "Okamoto", "Sakuzou", "Sumizumi", "Hanuba", "Kishida", "Eidon", "Saki", "Kawai", "Kannazuki"]
+	}
 ]
