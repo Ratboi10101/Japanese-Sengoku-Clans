@@ -65,7 +65,7 @@
 
 		"outerColor": [250,0,0],
 		"innerColor": [0,0,0],
-		"uniqueName": "Fukoku Kyohei",
+		"uniqueName": "Fukoku Kyōhei",
 		"uniques": ["[+100]% [Horses] resource production","[+1 Production, +1 Gold] from every [Mine]", "[+1 Production] from every [Quarry]"],
 		"cities": ["Kofu",
 			"Nirasaki",
@@ -143,11 +143,11 @@
 		"afterPeace": "Come here, let's have some calming tea together, my friend. ",
 		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
 
-		"outerColor": [255,255,0],
-		"innerColor": [0,0,0],
-		"uniqueName": "Katana Gari",
+		"outerColor": [0,0,0],
+		"innerColor": [200,0,0],
+		"uniqueName": "Hyakki Yakō",
 		"uniques": ["[-99]% Unhappiness from [Population] [in all cities]","\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Suzugamori execution ground"]
-		"spyNames": ["Anibashi", "Okamoto", "Sakuzou", "Sumizumi", "Hanuba", "Kishida", "Eidon", "Saki", "Kawai", "Kannazuki"]
+		"spyNames": ["Nakigara", "Nikushimi", "Zibaku", "Shisatsu", "Zantou", "Harawata", "Zoumotsu", "Senketsu", "Namakubi", "Nisshoku"]
 	}
 ]
